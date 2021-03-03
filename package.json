@@ -1,0 +1,25 @@
+{
+  "name": "reto6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "eslint-config-prettier": "^8.1.0",
+    "prettier": "^2.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catorrese/reto6.git"
+  },
+  "author": "Carlos Andres Torres E",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/catorrese/reto6/issues"
+  },
+  "homepage": "https://github.com/catorrese/reto6#readme"
+}
